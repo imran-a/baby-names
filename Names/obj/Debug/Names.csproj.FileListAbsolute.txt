@@ -1,0 +1,13 @@
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\Names.exe.config
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\Names.exe
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\Names.pdb
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\HtmlAgilityPack.dll
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\HtmlAgilityPack.pdb
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\HtmlAgilityPack.xml
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\obj\Debug\Names.csprojResolveAssemblyReference.cache
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\obj\Debug\Names.exe
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\obj\Debug\Names.pdb
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\EntityFramework.dll
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\EntityFramework.xml
+c:\users\imran\documents\visual studio 2013\Projects\Names\Names\bin\Debug\EntityFramework.SqlServer.xml
